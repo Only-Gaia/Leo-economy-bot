@@ -1,6 +1,6 @@
 """
 =====================================================================
- Leo ECONOMY - Bot Discord di economia (script unico)
+ Leo's Economy Bot - Bot Discord di economia (script unico)
 =====================================================================
 Tutti i comandi funzionano sia con il prefisso "." (es. .balance)
 sia come slash command "/" (es. /balance): sono comandi "ibridi",
@@ -33,8 +33,8 @@ from dotenv import load_dotenv
 # =====================================================================
 
 PREFIX = "."
-BOT_NAME = "Leo Economy"
-CURRENCY_NAME = "COINS"
+BOT_NAME = "Leo's Economy Bot"
+CURRENCY_NAME = "Leo cash"
 CURRENCY_EMOJI = "🪙"
 EMBED_COLOR = 0xF1C40F  # oro
 
