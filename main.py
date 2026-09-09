@@ -34,7 +34,7 @@ from dotenv import load_dotenv
 
 PREFIX = "."
 BOT_NAME = "Leo's Economy Bot"
-CURRENCY_NAME = "Leo cash"
+CURRENCY_NAME = "Leo Token"
 CURRENCY_EMOJI = "🪙"
 EMBED_COLOR = 0xF1C40F  # oro
 
